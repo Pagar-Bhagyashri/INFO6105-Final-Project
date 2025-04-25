@@ -137,9 +137,8 @@ The visualization shows:
 - Right: Performance consistency across different chunk sizes (500, 1000, 2000 characters)
 
 These visualizations clearly demonstrate the significant reduction in broken sentences (96.9% improvement) and the consistent performance of our enhanced chunking strategy regardless of chunk size configuration.
-Comparison to Original Paper
-Add more specific details about how your implementation relates to the paper:
-markdown## Comparison to Original Paper
+
+## Comparison to Original Paper
 
 Our implementation enhances the original LightRAG paper in several ways:
 
@@ -150,9 +149,8 @@ Our implementation enhances the original LightRAG paper in several ways:
 3. **Performance Metrics**: We introduce quantitative metrics to measure chunking quality, demonstrating a 96.9% reduction in content fragmentation.
 
 4. **Architecture Compatibility**: Our enhancements are fully compatible with the original LightRAG architecture, requiring no changes to other system components.
-Future Work
-Include a section on potential future improvements:
-markdown## Future Work
+
+## Future Work
 
 Potential areas for future enhancement include:
 
