@@ -127,8 +127,6 @@ lightrag-enhanced/
 ```
 
 ## Visualization and Analysis
-Add a section that highlights the visualization capabilities:
-markdown## Visualization and Analysis
 
 This implementation includes visualization tools to analyze the performance improvements:
 
