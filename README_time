@@ -1,0 +1,57 @@
+# ViTST - Vision Transformer for Irregularly Sampled Time Series
+
+This project implements the ViTST (Vision Transformer for Irregularly Sampled Time Series) pipeline for classifying activity types in multivariate time series data using deep learning. The model converts each time series into an image and leverages a Swin Transformer for classification.
+
+---
+
+## 📌 Overview
+
+Traditional deep learning models struggle with **irregularly sampled time series**. This project addresses that limitation by:
+- Converting time series into **line plot images** using grid-based visualization.
+- Using a **pre-trained Vision Transformer (Swin Transformer)** to classify the images.
+- Applying the approach to the **PAMAP2 dataset**, a wearable sensor dataset for human activity recognition.
+
+---
+
+## 📁 Dataset
+
+**PAMAP2 Physical Activity Monitoring Dataset**
+
+- Each data point includes sensor readings over time for 17 variables.
+- Data is pre-processed and stored as three pickle files:
+
+---
+
+## 🧠 Model Architecture
+
+1. **TimeSeriesDataset**: Loads data and labels from the `processed_data` folder.
+2. **ViTSTDataset**: Converts each multivariate time series sample into a 2D image.
+3. **ViTST Model**: A Swin Transformer pre-trained on ImageNet is fine-tuned for classification.
+4. **ViTSTTrainer**: Handles training, evaluation, visualization, and model checkpointing.
+
+---
+
+## 🧪 Usage Instructions
+
+### Step 1: Clone the repo and install dependencies
+
+```bash
+git clone https://github.com/yourusername/vitst-time-series.git
+cd vitst-time-series
+pip install -r requirements.txt
+# Recommended
+jupyter notebook Time.ipynb
+
+# Or if converted to script
+python Time.ipynb
+config = {
+  'data_path': './processed_data',
+  'image_size': (256, 320),
+  'grid_layout': (4, 5),
+  'batch_size': 32,
+  'num_workers': 2,
+  'learning_rate': 2e-5,
+  'num_epochs': 10,
+  'device': 'cuda' or 'cpu',
+  'save_dir': './'
+}
