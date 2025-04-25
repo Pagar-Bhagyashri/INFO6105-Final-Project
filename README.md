@@ -163,7 +163,7 @@ Potential areas for future enhancement include:
 
 For a detailed explanation of our implementation and evaluation results, please refer to our comprehensive project report:
 
-- [Group 4 INFO6105 Final Project Report (PDF)](./Group%204%20INFO6105%20Final%20Project%20Report.pdf)
+- [Group 4 INFO6105 Final Project Report (PDF)](https://github.com/Pagar-Bhagyashri/INFO6105-Final-Project/blob/main/Group%204%20INFO6105%20Final%20Project%20Reort.pdf)
 
 This report includes:
 - Detailed analysis of the original LightRAG paper
