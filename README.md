@@ -126,7 +126,7 @@ lightrag-enhanced/
 └── README.md             # Project documentation
 ```
 
-Visualization and Analysis
+## Visualization and Analysis
 Add a section that highlights the visualization capabilities:
 markdown## Visualization and Analysis
 
