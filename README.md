@@ -141,6 +141,3 @@ If you use this implementation in your research, please cite both the original p
 }
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.# INFO6105-Final-Project
