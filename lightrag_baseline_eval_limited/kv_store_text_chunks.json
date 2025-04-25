@@ -1,0 +1,37 @@
+{
+  "chunk-f6b8a6161f163907a6e5171d5b3ef003": {
+    "tokens": 47,
+    "content": "Once upon a time, there was a small village nestled in a lush valley. The villagers lived in harmony with nature, tending their crops and livestock. Among them was a curious young girl named Lily who loved to explore the surrounding forests.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f6b8a6161f163907a6e5171d5b3ef003",
+    "file_path": "unknown_source"
+  },
+  "chunk-041bc65223a3fedc719be0806d953056": {
+    "tokens": 50,
+    "content": "One day, Lily discovered an ancient tree with a small door at its base. Intrigued, she opened it and found a tiny library filled with magical books. Each book, when opened, transported the reader to the world described in its pages.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-041bc65223a3fedc719be0806d953056",
+    "file_path": "unknown_source"
+  },
+  "chunk-1f158f9bf70107531e02e6e133e98a76": {
+    "tokens": 33,
+    "content": "Lily kept her discovery secret, visiting the tree library whenever she could. She traveled to distant lands, met fantastic creatures, and learned about different cultures and ideas.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-1f158f9bf70107531e02e6e133e98a76",
+    "file_path": "unknown_source"
+  },
+  "chunk-7d53a3d9c3d24c41d114613b307f22e6": {
+    "tokens": 51,
+    "content": "As she grew older, Lily began to share her knowledge with the village children, teaching them about the wonders beyond their valley. Though she never revealed the source of her wisdom, her stories inspired many to look at the world with fresh eyes and open minds.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-7d53a3d9c3d24c41d114613b307f22e6",
+    "file_path": "unknown_source"
+  },
+  "chunk-b45c2ce48caba262120e49c87d7b8f79": {
+    "tokens": 22,
+    "content": "The village flourished as new ideas took root, and Lily's legacy of curiosity and learning continued for generations.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-b45c2ce48caba262120e49c87d7b8f79",
+    "file_path": "unknown_source"
+  }
+}

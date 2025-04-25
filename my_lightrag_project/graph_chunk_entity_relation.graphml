@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d9" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d8" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d7" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d6" for="edge" attr.name="description" attr.type="string" />
+  <key id="d5" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Lily">
+      <data key="d0">Lily</data>
+      <data key="d1">person</data>
+      <data key="d2">A curious young girl who discovers a magical library and shares its knowledge with her village.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="The Village">
+      <data key="d0">The Village</data>
+      <data key="d1">geo</data>
+      <data key="d2">A small village nestled in a lush valley, where the story takes place.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="The Ancient Tree Library">
+      <data key="d0">The Ancient Tree Library</data>
+      <data key="d1">event</data>
+      <data key="d2">A magical library hidden within an ancient tree, transporting readers to different worlds.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="Various Cultures and Ideas">
+      <data key="d0">Various Cultures and Ideas</data>
+      <data key="d1">category</data>
+      <data key="d2">The diverse cultures and ideas Lily learns about through the magical books.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="The Lush Valley">
+      <data key="d0">The Lush Valley</data>
+      <data key="d1">geo</data>
+      <data key="d2">The geographical location of the village, described as lush and providing a harmonious environment.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="The Ancient Tree">
+      <data key="d0">The Ancient Tree</data>
+      <data key="d1">event</data>
+      <data key="d2">An ancient tree containing a hidden, magical library at its base.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="The Magical Library">
+      <data key="d0">The Magical Library</data>
+      <data key="d1">event</data>
+      <data key="d2">A library hidden inside the ancient tree, filled with magical books that transport readers to different worlds.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="Magical Books">
+      <data key="d0">Magical Books</data>
+      <data key="d1">category</data>
+      <data key="d2">Books within the library possessing magical properties, transporting readers to the worlds described within their pages.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="Distant Lands">
+      <data key="d0">Distant Lands</data>
+      <data key="d1">geo</data>
+      <data key="d2">Various locations Lily travels to via the magical books, representing diverse cultures and environments.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="Fantastic Creatures">
+      <data key="d0">Fantastic Creatures</data>
+      <data key="d1">category</data>
+      <data key="d2">Mythical or extraordinary beings encountered by Lily in her travels through the magical books.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="Different Cultures and Ideas">
+      <data key="d0">Different Cultures and Ideas</data>
+      <data key="d1">category</data>
+      <data key="d2">The range of cultural knowledge and new ideas Lily acquires through her journeys within the magical books.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <node id="Village Children">
+      <data key="d0">Village Children</data>
+      <data key="d1">person</data>
+      <data key="d2">The children of the village who receive knowledge and inspiration from Lily's stories.</data>
+      <data key="d3">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d4">unknown_source</data>
+    </node>
+    <edge source="Lily" target="The Ancient Tree Library">
+      <data key="d5">9.0</data>
+      <data key="d6">Lily discovers and frequently visits the magical library, gaining knowledge and experiencing different worlds.</data>
+      <data key="d7">discovery, exploration, learning</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="Lily" target="The Village">
+      <data key="d5">8.0</data>
+      <data key="d6">Lily shares her knowledge gained from the library with the children of her village, influencing its growth and development.</data>
+      <data key="d7">knowledge sharing, community impact</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="Lily" target="The Ancient Tree">
+      <data key="d5">9.0</data>
+      <data key="d6">Lily discovers the hidden library within the ancient tree.</data>
+      <data key="d7">discovery, key location</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="Lily" target="The Magical Library">
+      <data key="d5">10.0</data>
+      <data key="d6">Lily frequently visits the library, utilizing its magical books for travel and learning.</data>
+      <data key="d7">exploration, knowledge acquisition</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="Lily" target="Village Children">
+      <data key="d5">8.0</data>
+      <data key="d6">Lily shares her knowledge, gained from the magical books, with the village children.</data>
+      <data key="d7">mentorship, knowledge transfer</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="Lily" target="Different Cultures and Ideas">
+      <data key="d5">7.0</data>
+      <data key="d6">Lily learns and shares diverse cultures and ideas with the village.</data>
+      <data key="d7">learning, sharing</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="The Village" target="The Lush Valley">
+      <data key="d5">9.0</data>
+      <data key="d6">The village is located within the lush valley.</data>
+      <data key="d7">location, setting</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="The Ancient Tree Library" target="Various Cultures and Ideas">
+      <data key="d5">7.0</data>
+      <data key="d6">The library's books contain information about diverse cultures and ideas, which Lily learns and shares.</data>
+      <data key="d7">knowledge acquisition, cultural exposure</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="The Magical Library" target="Magical Books">
+      <data key="d5">9.0</data>
+      <data key="d6">The library is filled with magical books that are integral to its function.</data>
+      <data key="d7">content, functionality</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="Magical Books" target="Distant Lands">
+      <data key="d5">8.0</data>
+      <data key="d6">The magical books transport Lily to distant lands, allowing her to experience different cultures and environments.</data>
+      <data key="d7">transportation, exploration</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="Magical Books" target="Fantastic Creatures">
+      <data key="d5">7.0</data>
+      <data key="d6">The magical books contain stories involving fantastic creatures encountered during Lily's journeys.</data>
+      <data key="d7">narrative elements, world-building</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+    <edge source="Magical Books" target="Different Cultures and Ideas">
+      <data key="d5">9.0</data>
+      <data key="d6">The magical books expose Lily to different cultures and ideas, shaping her worldview and knowledge.</data>
+      <data key="d7">education, cultural exposure</data>
+      <data key="d8">chunk-82c00271253137fe48680a1d894417d1</data>
+      <data key="d9">unknown_source</data>
+    </edge>
+  </graph>
+</graphml>

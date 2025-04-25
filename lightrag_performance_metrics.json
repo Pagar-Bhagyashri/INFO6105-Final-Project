@@ -1,0 +1,17 @@
+{
+  "baseline": {
+    "retrieval_relevance": 0.13438243191129318,
+    "chunk_coverage": 0.0,
+    "latency": 0.0037300586700439453
+  },
+  "improved": {
+    "retrieval_relevance": 0.13438243191129318,
+    "chunk_coverage": 0.0,
+    "latency": 0.0038398265838623046
+  },
+  "improvements": {
+    "retrieval_relevance": 0.0,
+    "chunk_coverage": 0,
+    "latency": -2.858668521117136
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "baseline": {
+    "retrieval_precision": 0.06,
+    "answer_relevance": 0.13411895729192105,
+    "latency": 0.36174166202545166
+  },
+  "improved": {
+    "retrieval_precision": 0.06,
+    "answer_relevance": 0.13856332767223753,
+    "latency": 0.20751505851745605
+  },
+  "improvements": {
+    "retrieval_precision": 0.0,
+    "answer_relevance": 3.3137525597093154,
+    "latency": 74.32068044113636
+  }
+}
