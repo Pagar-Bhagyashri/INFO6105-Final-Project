@@ -158,3 +158,16 @@ Potential areas for future enhancement include:
 2. **Multi-Document Knowledge Linking**: Improve connections between chunks across different documents
 3. **Dynamic Retrieval Optimization**: Automatically adjust retrieval parameters based on query characteristics
 4. **Evaluation Framework**: Develop comprehensive benchmarks for measuring RAG performance improvements
+
+## Documentation
+
+For a detailed explanation of our implementation and evaluation results, please refer to our comprehensive project report:
+
+- [Group 4 INFO6105 Final Project Report (PDF)](./Group%204%20INFO6105%20Final%20Project%20Report.pdf)
+
+This report includes:
+- Detailed analysis of the original LightRAG paper
+- Step-by-step explanation of our implementation approach
+- Comprehensive evaluation methodology and results
+- Comparison with baseline performance metrics
+- Discussion of implications and future directions
