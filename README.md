@@ -126,18 +126,4 @@ lightrag-enhanced/
 └── README.md             # Project documentation
 ```
 
-## Citation
-
-If you use this implementation in your research, please cite both the original paper and our enhanced implementation:
-
-```
-@misc{lightrag2023,
-  author = {Original LightRAG Authors},
-  title = {LightRAG: Simple and Fast Retrieval-Augmented Generation},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/hkuds/lightrag}}
-}
-```
 
